@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2ED98645-B15E-41FD-AE70-4993F0179AD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YisinTick</RootNamespace>
+    <AssemblyName>YisinTick</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ticklogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>DLL\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>DLL\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ImgText">
+      <HintPath>DLL\ImgText.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2">
+      <HintPath>DLL\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="IronJS">
+      <HintPath>DLL\IronJS.dll</HintPath>
+    </Reference>
+    <Reference Include="IronJS.Runtime">
+      <HintPath>DLL\IronJS.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="IronJS.Runtime.Fakes">
+      <HintPath>FakesAssemblies\IronJS.Runtime.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bex\CommonUtil.cs" />
+    <Compile Include="bex\ConfigStore.cs" />
+    <Compile Include="bex\GenerateVerify.cs" />
+    <Compile Include="bex\Music.cs" />
+    <Compile Include="bex\Process.cs" />
+    <Compile Include="bex\StationList.cs" />
+    <Compile Include="bex\_88448Class.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="window\AboutUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\AboutUS.Designer.cs">
+      <DependentUpon>AboutUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\AddLibaray.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\AddLibaray.Designer.cs">
+      <DependentUpon>AddLibaray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\BuyCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\BuyCode.Designer.cs">
+      <DependentUpon>BuyCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\ComfirmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\ComfirmDialog.Designer.cs">
+      <DependentUpon>ComfirmDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\CreateFavoriteContactFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\CreateFavoriteContactFrom.Designer.cs">
+      <DependentUpon>CreateFavoriteContactFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\DESFile.cs" />
+    <Compile Include="bex\DynamicConsoleWriter.cs" />
+    <Compile Include="bex\DynamicJsonConverter.cs" />
+    <Compile Include="window\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\FrmDuiHuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\FrmDuiHuan.Designer.cs">
+      <DependentUpon>FrmDuiHuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\GenretorMa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\GenretorMa.Designer.cs">
+      <DependentUpon>GenretorMa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\GetTrainsFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\GetTrainsFrom.Designer.cs">
+      <DependentUpon>GetTrainsFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\HttpHelper.cs" />
+    <Compile Include="bex\HttpHelper2.cs" />
+    <Compile Include="window\ImageFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\ImageFrom.Designer.cs">
+      <DependentUpon>ImageFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\imgOCR.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="window\LibraryMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\LibraryMgt.Designer.cs">
+      <DependentUpon>LibraryMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\MyEncrypt.cs" />
+    <Compile Include="window\Login88448.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\Login88448.Designer.cs">
+      <DependentUpon>Login88448.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pojo\Seats.cs" />
+    <Compile Include="window\SelectTrainSeatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\SelectTrainSeatForm.Designer.cs">
+      <DependentUpon>SelectTrainSeatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pojo\Stations.cs" />
+    <Compile Include="bex\TickCute.cs" />
+    <Compile Include="bex\Trains.cs" />
+    <Compile Include="bex\TranTime.cs" />
+    <Compile Include="window\Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\TranTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\TranTimeForm.Designer.cs">
+      <DependentUpon>TranTimeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\UnCode.cs" />
+    <Compile Include="bex\UnCodebase.cs" />
+    <Compile Include="pojo\VerifyEntity.cs" />
+    <Compile Include="window\UserInfoPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\UserInfoPanel.Designer.cs">
+      <DependentUpon>UserInfoPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="window\VerifyStudy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="window\VerifyStudy.Designer.cs">
+      <DependentUpon>VerifyStudy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bex\XmlUtils.cs" />
+    <Compile Include="bex\_12306Class.cs" />
+    <EmbeddedResource Include="window\AboutUS.resx">
+      <DependentUpon>AboutUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\AddLibaray.resx">
+      <DependentUpon>AddLibaray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\BuyCode.resx">
+      <DependentUpon>BuyCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\ComfirmDialog.resx">
+      <DependentUpon>ComfirmDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\CreateFavoriteContactFrom.resx">
+      <DependentUpon>CreateFavoriteContactFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\FrmDuiHuan.resx">
+      <DependentUpon>FrmDuiHuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\GenretorMa.resx">
+      <DependentUpon>GenretorMa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\GetTrainsFrom.resx">
+      <DependentUpon>GetTrainsFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\ImageFrom.resx">
+      <DependentUpon>ImageFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\LibraryMgt.resx">
+      <DependentUpon>LibraryMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\Login88448.resx">
+      <DependentUpon>Login88448.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\SelectTrainSeatForm.resx">
+      <DependentUpon>SelectTrainSeatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\Setting.resx">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\TranTimeForm.resx">
+      <DependentUpon>TranTimeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\UserInfoPanel.resx">
+      <DependentUpon>UserInfoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="window\VerifyStudy.resx">
+      <DependentUpon>VerifyStudy.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\1.gif" />
+    <None Include="bin\Debug\data\yslogo.png" />
+    <None Include="bin\Debug\data\Applications.png" />
+    <None Include="bin\Debug\data\Prize.png" />
+    <None Include="bin\Debug\data\star.png" />
+    <None Include="bin\Debug\data\System.png" />
+    <None Include="bin\Debug\data\ic005.ico" />
+    <None Include="bin\Debug\data\ic017.ico" />
+    <None Include="bin\Debug\data\ic021.ico" />
+    <None Include="bin\Debug\data\ic0028.ico" />
+    <None Include="bin\Debug\data\ic034.ico" />
+    <None Include="bin\Debug\data\wait2.gif" />
+    <Content Include="ticklogo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

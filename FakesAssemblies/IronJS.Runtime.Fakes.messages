@@ -1,0 +1,39 @@
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ArgumentsLinkArray 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.FunctionCompiler 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.GlobalCode 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.EvalCode 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.Descriptor 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.BoxedValueOffsets 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.Markers 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.BoxedValue 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.BoxingUtils 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.BoxFields 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.DefaultValueHint 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.DescriptorAttrs 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.SourceCodePrinter 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.FunctionType 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.MarshalModes 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.Operators 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ParameterStorageType 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ParamsModes 生成存根: 类型是一个值类型。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.TaggedBools 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.TypeTags 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.TypeTag 生成存根: 类型已密封。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.Undefined 生成存根: 类型没有系列可见的构造函数。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ArgumentsLinkArray 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.Caches.LimitCache`2+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.FunctionCompiler 生成填充码: 类型是一个委托。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.GlobalCode 生成填充码: 类型是一个委托。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.EvalCode 生成填充码: 类型是一个委托。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.BoxedValueOffsets 生成填充码: 类型对 exported or assembly(IronJS.Runtime.Fakes) 不可见。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.DefaultValueHint 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.SourceCodePrinter 生成填充码: 类型对 exported or assembly(IronJS.Runtime.Fakes) 不可见。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.FunctionType 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.MarshalModes 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.CommonObject+<CollectIndexValues>d__8 生成填充码: 类型不受支持，因为存在内部限制。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.CommonObject+<GetDynamicMemberNames>d__2 生成填充码: 类型不受支持，因为存在内部限制。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.RegExpObject+<>c__DisplayClass2 生成填充码: 类型不受支持，因为存在内部限制。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ParameterStorageType 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.ParamsModes 生成填充码: 类型是一个枚举。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.SplayTree`2+SplayTreeNode 生成填充码: 类型对 exported or assembly(IronJS.Runtime.Fakes) 不可见。
+G:\softwork\vs2013work\c#\隐心抢票\Fakes\IronJS.Runtime.fakes : warning : 无法为 IronJS.Runtime.SplayTree`2+TiedList`1 生成填充码: 类型对 exported or assembly(IronJS.Runtime.Fakes) 不可见。

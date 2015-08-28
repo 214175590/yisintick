@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <library>
+    <lib id="lib_00" status="0">12306验证码特征库2014版</lib>
+  </library>
+  <users />
+  <skin>
+  </skin>
+  <start>2</start>
+  <update>2</update>
+  <algorithm>2</algorithm>
+  <isAutoBaojing>True</isAutoBaojing>
+  <isAutoWriterVerify>False</isAutoWriterVerify>
+  <failedTimes>3</failedTimes>
+  <fromCity>深圳</fromCity>
+  <toCity>邵阳</toCity>
+  <currVersion>1.0.1</currVersion>
+</config>

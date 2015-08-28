@@ -1,0 +1,70 @@
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.dll
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.dll
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.pdb
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.xml
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.pdb
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.xml
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateFavoriteContactFrom.resources
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GetTrainsFrom.resources
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectTrainSeatForm.resources
+C:\Users\Ping\documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TranTimeForm.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.dll
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.dll
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\FSharp.Core.dll
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.pdb
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.xml
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.pdb
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\IronJS.Runtime.xml
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\FSharp.Core.xml
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateFavoriteContactFrom.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GetTrainsFrom.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectTrainSeatForm.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TranTimeForm.resources
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\马后炮之12306抢票工具（三）--监控车次Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImageFrom.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateFavoriteContactFrom.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GetTrainsFrom.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImageFrom.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectTrainSeatForm.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TranTimeForm.resources
+F:\临时\马后炮之12306抢票工具（四）--抢票Demo\马后炮之12306抢票工具（四）--抢票Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\学习资料\C#学习资料\马后炮抢票源码\bin\Debug\WindowsFormsApplication1.exe.config
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.exe
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.pdb
+D:\学习资料\C#学习资料\马后炮抢票源码\bin\Debug\WindowsFormsApplication1.exe
+D:\学习资料\C#学习资料\马后炮抢票源码\bin\Debug\WindowsFormsApplication1.pdb
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.CreateFavoriteContactFrom.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.GetTrainsFrom.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.ImageFrom.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.SelectTrainSeatForm.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.TranTimeForm.resources
+D:\学习资料\C#学习资料\马后炮抢票源码\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
